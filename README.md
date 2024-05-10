@@ -30,7 +30,8 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
 **PROGRAM**
 
 
-Developed by:A.Afifa RegisterNumber:212223040008
+Developed by: SHEETAL.R
+RegisterNumber: 212223230206
 
 ```
 module EXP10(clk, sin, q);
@@ -49,12 +50,16 @@ endmodule
 ```
 
 **RTL LOGIC FOR SISO Shift Register**
-![324219173-3f9dbc2d-fe7c-4c47-a5c9-728b3bd140d5](https://github.com/afifa17112005/SERIAL-IN-SERIAL-OUT-SHIFTREGISTER/assets/147080931/2abb0e55-1c71-4c43-8fc9-5f3a335f7d54)
+
+![image](https://github.com/Sheetalshee/SERIAL-IN-SERIAL-OUT-SHIFTREGISTER/assets/144979107/7b156924-c90f-4e01-9b6d-86daad593b8c)
+
 
 
 **TIMING DIGRAMS FOR SISO Shift Register**
 
-![324219186-53b3fb19-56a0-4f99-beae-89e434b2dcd4](https://github.com/afifa17112005/SERIAL-IN-SERIAL-OUT-SHIFTREGISTER/assets/147080931/b0182cc2-4c6c-4fca-9aed-811e977833cc)
+![image](https://github.com/Sheetalshee/SERIAL-IN-SERIAL-OUT-SHIFTREGISTER/assets/144979107/244b976d-471a-414e-a933-8ddcad06dc93)
+
+
 
 **RESULTS**:
 SISO Shift Register using verilog and validating their functionality using their functional tables has successful execution of the program.
